@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da8da39e-389c-4c64-b9e8-96c803372f57" name="Changes" comment="Create empty Trello workspace">
+    <list default="true" id="da8da39e-389c-4c64-b9e8-96c803372f57" name="Changes" comment="Refactor">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/TrelloAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TrelloAPI.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,9 +76,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RestAssured_PUT_Example" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Trello" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RestAssured_PUT_Example" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.TrelloAPI (1)" />
+        <item itemvalue="TestNG.RestAssured_PUT_Example" />
         <item itemvalue="Application.TrelloAPI" />
       </list>
     </recent_temporary>
@@ -126,13 +139,21 @@
       <option name="project" value="LOCAL" />
       <updated>1673375882130</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Refactor">
+      <created>1673376260287</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1673376260287</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Configuring dependencies" />
     <MESSAGE value="Hello World!" />
     <MESSAGE value="Create empty Trello workspace" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create empty Trello workspace" />
+    <MESSAGE value="Refactor" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactor" />
   </component>
 </project>
