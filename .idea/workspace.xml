@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da8da39e-389c-4c64-b9e8-96c803372f57" name="Changes" comment="Configuring dependencies">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Trello/TrelloAPI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+    <list default="true" id="da8da39e-389c-4c64-b9e8-96c803372f57" name="Changes" comment="Hello World!">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TrelloAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TrelloAPI.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,11 +113,19 @@
       <option name="project" value="LOCAL" />
       <updated>1673372581856</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Hello World!">
+      <created>1673373167765</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1673373167765</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Configuring dependencies" />
-    <option name="LAST_COMMIT_MESSAGE" value="Configuring dependencies" />
+    <MESSAGE value="Hello World!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hello World!" />
   </component>
 </project>
