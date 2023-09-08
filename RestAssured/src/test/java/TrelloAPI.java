@@ -7,8 +7,8 @@ public class TrelloAPI {
 
         String URL = "https://api.trello.com";
 
-        String key = "982abc8dcdc1f5c1f521158a8a130b2e";
-        String token = "ATTA21ffc751290b3358369e166609b32df8553dfb06ba83ffb998a84cf6e0277df8210993B3";
+        String key = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
+        String token = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
 
         String organizationName = "FWD";
         String organizationID;
