@@ -1,0 +1,1 @@
+This project is for learning the basics of REST APIs testing using Postman and the REST Assured library.
